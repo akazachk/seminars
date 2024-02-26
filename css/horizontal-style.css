@@ -1,0 +1,20 @@
+#horizontal-style {
+    display: table;
+    width: 90%
+}
+#horizontal-style li {
+    display: table-cell;
+}
+#horizontal-style a {
+    display: block;
+    border: 1px solid var(--headercolor);
+    text-align: center;
+    margin: 0 5px;
+    background: var(--headercolor)
+    color: white;
+    font-size: 1em;
+}
+
+div {
+    background: #FFFFFF
+}
